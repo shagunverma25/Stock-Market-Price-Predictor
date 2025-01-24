@@ -4,10 +4,10 @@ The Stock Market Price Prediction project is a ML based web application that use
 This project provides an easy-to-use interface built with Streamlit and integrates data from yFinance for real-time stock data retrieval.
 
 Features:
-Real-time Stock Data: Fetch stock data from Yahoo Finance using yFinance.
-Stock Price Prediction: Predict future stock prices using an LSTM model trained on historical data.
-Interactive Visualizations: Visualize stock prices, moving averages (MA50, MA100, MA200), and predicted vs. actual stock prices using Matplotlib.
-User Input: Users can input any stock symbol (e.g., 'GOOG', 'AAPL') and see predictions and stock data.
+ *Real-time Stock Data: Fetch stock data from Yahoo Finance using yFinance.
+ *Stock Price Prediction: Predict future stock prices using an LSTM model trained on historical data.
+ *Interactive Visualizations: Visualize stock prices, moving averages (MA50, MA100, MA200), and predicted vs. actual stock prices using Matplotlib.
+ *User Input: Users can input any stock symbol (e.g., 'GOOG', 'AAPL') and see predictions and stock data.
 
 Technologies Used:
 Python
